@@ -8,7 +8,7 @@ Turmeric is the personal output of me, Tom Holloway. Although it's not the first
 
 Tumeric is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
 
-To view the copyright and specific terms and conditions please refer to [License.md](License.md).
+To view the copyright and specific terms and conditions please refer to [LICENSE.md](LICENSE.md/LICENSE.md).
 
 ## Suggestion, Comments, Contributions
 
